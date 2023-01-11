@@ -1,4 +1,4 @@
-FROM thomasweise/docker-texlive-thin
+FROM thomasweise/docker-texlive-full
 
 RUN \
     echo "===> Update repositories" && \
